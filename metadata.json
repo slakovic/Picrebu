@@ -1,0 +1,7 @@
+{
+  "name": "PICREBU AI",
+  "description": "Intelligent Image Rebuild & Enhancement Assistant. Specialized in reconstruction, background replacement, and professional-grade photo transformation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
